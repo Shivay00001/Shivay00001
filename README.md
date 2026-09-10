@@ -109,3 +109,8 @@ I'm open to collaborating on:
 «Building intelligent software that creates real-world impact.»
 
 ⭐ Follow my GitHub, explore my projects, and connect with me!
+
+
+## Installation
+Follow standard installation steps for this language.
+
