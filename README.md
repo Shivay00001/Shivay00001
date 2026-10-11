@@ -1,176 +1,36 @@
-👋 Hi, I'm Shivay Singh Rajput
+# 👋 Hi, I'm Shivam Kumar — developer turned founder.
 
-🚀 Founder of VisionQuantech | AI Builder | Open Source Developer | Technical Writer
-🚀 Founder & CEO • VisionQuantech
+I build small AI that actually works. Founder of **VisionQuantech** — an AI automation studio for real businesses (AI receptionists, WhatsApp agents, SEO).
 
-I'm passionate about building AI-powered products that solve real-world problems. My work focuses on artificial intelligence, automation, developer tools, productivity software, and next-generation applications. I enjoy turning ambitious ideas into practical software and sharing what I learn through open-source projects and technical writing.
-Building AI Agents • SaaS • Open Source • Automation • Developer Tools
+## What I'm building
 
-🔭 What I'm Building
----
+- **🧠 Shivacon** — 9 domain-specific LLM adapters (LoRA on Qwen2.5-0.5B), each graded by a 4-gate sellability harness. 8 failed. 1 shipped. The failures are public too.
+- **🏢 VisionQuantech** — done-for-you AI agents for clinics, real estate, hotels, home services.
+- **🔬 Research** — AGI/ASI architectures, agentic systems design. Papers on Archive.org.
 
-🌐 Connect With Me
+## Featured repos
 
-🐙 GitHub: https://github.com/shivay00001
-🏢 VisionQuantech: https://github.com/visionquantech
-📸 Instagram: https://instagram.com/shivay.singh_rajput
-✖️ X: https://x.com/visionquantech
-🤗 Hugging Face: https://huggingface.co/visionquantech
-🌍 Website: https://visionquantech.com
-🤗 Hugging Face: https://huggingface.co/shivay00001
-📚 Amazon KDP Author: https://www.amazon.com/author/shivamkumar
+| Repo | What |
+|---|---|
+| [shivacon-energy](https://github.com/Shivay00001/shivacon-energy) | ⚡ 0.5B energy-domain LoRA. 9/10 domain tasks, 5/5 JSON, **0 hallucinations/10**. Trained on free Colab T4 ($0). The 1 survivor of 9. |
+| [vq-music-studio](https://github.com/Shivay00001/vq-music-studio) | 🎵 AI music studio — BPM/key detection, chord progressions, MIDI stems, mix/master, WAV export. Working demo. |
+| [packagepilot](https://github.com/Shivay00001/packagepilot) | 📦 Package tooling |
+| [cleanquote-os](https://github.com/Shivay00001/cleanquote-os) | 🧾 Quoting/invoicing OS |
 
----
+## Research papers
 
-- 🤖 AI Agents & Business Automation
-- 🌐 SaaS Products
-- 💬 Cross-Platform Communication Tools
-- 📄 AI Productivity & Document Tools
-- 🧠 Large Language Model (LLM) Applications
-- ⚡ Developer Utilities & Automation
-🚀 VisionQuantech Ecosystem
+- [ARIA Architecture v1](https://archive.org/details/aria-architecture-v1) *(link to verify)*
+- [TITAN Architecture](https://archive.org/details/titan-architecture) *(link to verify)*
+- [NEXUS Architecture Research](https://archive.org/details/nexus-architecture-research) *(link to verify)*
 
-🤖 AI Agents
-💬 EnterChat
-📄 YOU.PDF
-🌾 FarmDirect
-🧠 VisionQuantech AI Platform
-⚡ Automation Tools
-🌐 Full-Stack SaaS Applications
-📱 Mobile Applications
-🛠️ Developer Tools
-📚 Open Source Projects
+## Stack
 
-➡️ Explore everything:
+`Python` `PyTorch` `Transformers` `PEFT/LoRA` `JavaScript` `Cloudflare` `Ollama` `n8n`
 
-- https://github.com/shivay00001
-- https://github.com/visionquantech
+## Contact
+
+📧 **Contact@visionquantech.com** — for AI agent builds, collaborations, research.
 
 ---
 
-💻 Tech Stack
-
-Languages
-
-- Python
-- JavaScript
-- TypeScript
-- SQL
-
-Frameworks & Tools
-
-- React
-- Next.js
-- Flutter
-- FastAPI
-- Node.js
-- Supabase
-- PostgreSQL
-- Docker
-- Git & GitHub
-- Cloudflare
-- Vercel
-
-AI
-
-- OpenAI APIs
-- Anthropic Claude
-- Google Gemini
-- LangChain
-- RAG
-- MCP
-- n8n Automation
-
-📚 What You'll Find Here
-
-- Open-source AI projects
-- Full-stack web applications
-- Automation workflows
-- Developer tools
-- APIs & backend systems
-- Experimental products
-- Learning resources
-
-🌱 Currently Learning
-
-- Advanced AI Agent Architectures
-- Distributed Systems
-- Scalable SaaS Infrastructure
-- AI Security & Reliability
-👨‍💻 Languages
-
-🤝 Let's Collaborate
-🐍 Python • ☕ Java • 🌐 JavaScript • 🔷 TypeScript • 🎯 Dart • ⚙️ C • 🐘 PHP • SQL • 🦀 Rust
-
-🎨 Frontend
-
-⚛️ React • ▲ Next.js • Flutter • HTML5 • CSS3 • Tailwind CSS
-
-⚙️ Backend
-
-FastAPI • Node.js • Express • Firebase • Supabase • PostgreSQL • MongoDB
-
-🤖 AI
-
-OpenAI • Claude • Gemini • Hugging Face • Transformers • LangChain • MCP • RAG • Ollama • n8n
-
-I'm interested in collaborating on:
-☁️ Cloud & DevOps
-
-- AI products
-- Open-source projects
-- SaaS applications
-- Automation systems
-- Developer tools
-Docker • Git • GitHub • Linux • Cloudflare • Vercel • Railway
-
-If you have an interesting project or opportunity, feel free to connect or open an issue on one of my repositories.
----
-
-📖 Publications
-
-📚 Author of multiple books covering:
-
-- Artificial Intelligence
-- Technology
-- Business
-- Innovation
-- Productivity
-- Future of Computing
-
-Read my books:
-👉 https://www.amazon.com/author/shivamkumar
-
----
-
-🌱 Currently Building
-
-- 🤖 AI Agent Ecosystem
-- 💬 EnterChat
-- 📄 YOU.PDF
-- 🧠 LLM Applications
-- ⚡ Business Automation
-- 🌍 Open Source Software
-
----
-
-"Build things that solve real problems."
-🤝 Let's Collaborate
-
-I'm open to collaborating on:
-
-- AI & LLM Applications
-- Open Source
-- SaaS Products
-- Automation
-- APIs
-- Developer Tools
-- Startup Projects
-
----
-
-💡 Motto
-
-«Building intelligent software that creates real-world impact.»
-
-⭐ Follow my GitHub, explore my projects, and connect with me!
+*Currently: retraining all 9 Shivacon domains (v3) on free Colab. Shipping what passes, publishing what fails.*
